@@ -1,6 +1,6 @@
 {
   "name": "just-queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Simple-To-Use Promise Based Queue For Concurrency & Throttle Limiting.",
   "main": "index.js",
   "scripts": {
