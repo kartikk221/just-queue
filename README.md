@@ -1,5 +1,16 @@
 # JustQueue: A Simple-To-Use Promise Based Queue For Concurrency & Throttle Limiting.
 
+<div align="left">
+
+[![NPM version](https://img.shields.io/npm/v/just-queue.svg?style=flat)](https://www.npmjs.com/package/just-queue)
+[![NPM downloads](https://img.shields.io/npm/dm/just-queue.svg?style=flat)](https://www.npmjs.com/package/just-queue)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/kartikk221/just-queue.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kartikk221/just-queue/context:javascript)
+[![GitHub issues](https://img.shields.io/github/issues/kartikk221/just-queue)](https://github.com/kartikk221/just-queue/issues)
+[![GitHub stars](https://img.shields.io/github/stars/kartikk221/just-queue)](https://github.com/kartikk221/just-queue/stargazers)
+[![GitHub license](https://img.shields.io/github/license/kartikk221/just-queue)](https://github.com/kartikk221/just-queue/blob/master/LICENSE)
+
+</div>
+
 ## Motivation
 JustQueue aims to simplify the process of setting up local queues in which you may need to throttle or limit the concurrency of asynchronous operations. The most common use case would using JustQueue in front an outgoing third party API request that may have its own rate and concurrency limits. In this scenario, JustQueue can allow asynchronous calls to this API to be appropriately throttled without going over the specified limits.
 
