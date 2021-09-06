@@ -1,0 +1,31 @@
+{
+  "name": "just-queue",
+  "version": "1.0.0",
+  "description": "A Simple-To-Use Promise Based Queue For Concurrency & Throttle Limiting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kartikk221/just-queue.git"
+  },
+  "keywords": [
+    "fast",
+    "queue",
+    "node",
+    "efficient",
+    "rate-limit",
+    "concurrency-limit",
+    "async",
+    "speed",
+    "simple",
+    "promise"
+  ],
+  "author": "kartikk221",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kartikk221/just-queue/issues"
+  },
+  "homepage": "https://github.com/kartikk221/just-queue#readme"
+}
